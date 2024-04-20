@@ -5,7 +5,7 @@ execute:
   freeze: auto
 
 website:
-  title: "O2iginal's Blog"
+  title: "XOR Dog's Blog"
   navbar:
     right:
       - about.qmd

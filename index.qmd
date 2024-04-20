@@ -1,5 +1,5 @@
 ---
-title: "O2iginal' Blog"
+title: "XOR Dog' Blog"
 listing:
   contents: posts
   sort: "date desc"
