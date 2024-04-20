@@ -1,1 +1,1 @@
-Sitemap: https://XOR-Dog.github.io/sitemap.xml
+Sitemap: git@xor-dog-gh-pages:XOR-Dog/XOR-Dog.github.io.git/sitemap.xml
